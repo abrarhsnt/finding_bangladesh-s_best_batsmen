@@ -1,0 +1,130 @@
+Player_ID,Rank,Player,ODI,T20I,Test,Total_Runs,Run_Share_Pct,Cumulative_Share_Pct,In_Pool
+a94e08ea,1,Mushfiqur Rahim,7096,1307,6592,14995,10.05,10.05,True
+3b041a12,2,Tamim Iqbal,7648,1567,5019,14234,9.54,19.59,True
+7dc35884,3,Shakib Al Hasan,6638,2295,4356,13289,8.91,28.5,True
+bf1d7d3e,4,Mahmudullah,5131,2223,2900,10254,6.87,35.37,True
+0404d43c,5,Liton Das,2478,2469,3277,8224,5.51,40.88,True
+de0a3209,6,Mominul Haque,495,60,5056,5611,3.76,44.64,True
+1274d7ab,7,Nazmul Hossain Shanto,1746,959,2453,5158,3.46,48.1,True
+4d9f9686,8,Soumya Sarkar,2343,1466,799,4608,3.09,51.19,True
+2bb09eb2,9,Mohammad Ashraful,2301,382,1523,4206,2.82,54.01,True
+5fbe14fc,10,Imrul Kayes,2242,119,1751,4112,2.76,56.77,True
+c58b0108,11,Mehedi Hasan Miraz,1408,410,2261,4079,2.73,59.5,False
+9e52a414,12,Towhid Hridoy,1506,1356,54,2916,1.95,61.45,False
+7147f314,13,Sabbir Rahman,1259,939,481,2679,1.8,63.25,False
+6eea0b32,14,Nasir Hossain,1240,308,1044,2592,1.74,64.99,False
+b9c225c2,15,Shahriar Nafees,1216,0,1188,2404,1.61,66.6,False
+80fe764d,16,Tanzid Hasan,1031,1200,147,2378,1.59,68.19,False
+e186f49c,17,Mashrafe Mortaza,1290,291,513,2094,1.4,69.59,False
+62e203d4,18,Junaid Siddique,896,159,897,1952,1.31,70.9,False
+72b245dd,19,Anamul Haque,1322,396,162,1880,1.26,72.16,False
+e74ad9ea,20,Habibul Bashar,926,0,914,1840,1.23,73.39,False
+53bc7b84,21,Aftab Ahmed,1061,200,425,1686,1.13,74.52,False
+37138918,22,Afif Hossain,594,1031,0,1625,1.09,75.61,False
+246d11a2,23,Shadman Islam,0,0,1575,1575,1.06,76.67,False
+17efdeb8,24,Raqibul Hasan,1177,51,301,1529,1.03,77.7,False
+cd56a813,25,Jaker Ali,328,692,359,1379,0.92,78.62,False
+02e83ac5,26,Naeem Islam,842,130,383,1355,0.91,79.53,False
+d365d463,27,Nurul Hasan,287,507,440,1234,0.83,80.36,False
+77191792,28,Mohammad Mithun,711,127,333,1171,0.79,81.15,False
+e15faa51,29,Javed Omar,468,0,678,1146,0.77,81.92,False
+8919756f,30,Mosaddek Hossain,702,308,113,1123,0.75,82.67,False
+ade071c5,31,Khaled Mashud,605,0,441,1046,0.7,83.37,False
+4b51bd51,32,Mahmudul Hasan Joy,0,5,1036,1041,0.7,84.07,False
+9d1d34bd,33,Taijul Islam,89,0,950,1039,0.7,84.77,False
+acc321aa,34,Rajin Saleh,515,0,482,997,0.67,85.44,False
+7ff3fcaa,35,Mohammad Rafique,491,0,470,961,0.64,86.08,False
+7923a51d,36,Mohammad Naim,58,839,24,921,0.62,86.7,False
+bb95564b,37,Saif Hassan,237,517,159,913,0.61,87.31,False
+888e32bf,38,Abdur Razzak,644,37,204,885,0.59,87.9,False
+ef18b66e,39,Taskin Ahmed,269,227,334,830,0.56,88.46,False
+54279e23,40,Alok Kapali,613,57,143,813,0.55,89.01,False
+489aaf0a,41,Parvez Hossain Emon,108,663,0,771,0.52,89.53,False
+b3a28446,42,Mohammad Saifuddin,360,298,0,658,0.44,89.97,False
+02789d88,43,Shamsur Rahman,266,86,305,657,0.44,90.41,False
+6752c57b,44,Jahurul Islam,226,31,347,604,0.4,90.81,False
+9dad0f2e,45,Mahedi Hasan,125,475,0,600,0.4,91.21,False
+711249d1,46,Shamim Hossain,56,537,0,593,0.4,91.61,False
+090f9211,47,Shahadat Hossain,60,5,507,572,0.38,91.99,False
+5a4c12ab,48,Sohag Gazi,182,57,325,564,0.38,92.37,False
+e3e09091,49,Zakir Hasan,1,11,521,533,0.36,92.73,False
+5791b840,50,Yasir Ali Chowdhury,101,227,205,533,0.36,93.09,False
+4aef496b,51,Nazimuddin,147,178,125,450,0.3,93.39,False
+608e1581,52,Hannan Sarkar,280,0,162,442,0.3,93.69,False
+5935d694,53,Rishad Hossain,206,233,0,439,0.29,93.98,False
+0c8a1d51,54,Khaled Mahmud,283,0,117,400,0.27,94.25,False
+f56cd097,55,Rubel Hossain,112,20,265,397,0.27,94.52,False
+4948a447,56,Farhad Reza,316,65,0,381,0.26,94.78,False
+bb34fd31,57,Shoriful Islam,98,86,183,367,0.25,95.03,False
+0b0cc297,58,Tanzim Hasan Sakib,134,192,41,367,0.25,95.28,False
+1a8eebbe,59,Shafiul Islam,132,23,211,366,0.25,95.53,False
+3fc3b204,60,Mushfiqur Rahman,208,0,155,363,0.24,95.77,False
+bb01f9e0,61,Shuvagata Hom,70,35,244,349,0.23,96.0,False
+c5b87d8c,62,Nafees Iqbal,128,0,221,349,0.23,96.23,False
+e8d7b493,63,Manjural Islam Rana,251,0,93,344,0.23,96.46,False
+0a8fce53,64,Mustafizur Rahman,171,101,66,338,0.23,96.69,False
+86cd782f,65,Mehrab Hossain jnr,183,16,102,301,0.2,96.89,False
+80ad39ac,66,Hasan Mahmud,37,50,213,300,0.2,97.09,False
+37654b75,67,Nasum Ahmed,171,125,0,296,0.2,97.29,False
+b58af144,68,Tushar Imran,250,0,37,287,0.19,97.48,False
+1670dcfd,69,Nayeem Hasan,0,0,284,284,0.19,97.67,False
+bb1819fa,70,Tapash Baisya,113,0,133,246,0.16,97.83,False
+8bd614b2,71,Rony Talukdar,4,220,0,224,0.15,97.98,False
+69e23303,72,Shahadat Hossain,0,26,190,216,0.14,98.12,False
+c27518d2,73,Ziaur Rahman,83,94,14,191,0.13,98.25,False
+5c756df3,74,Abul Hasan,11,0,165,176,0.12,98.37,False
+ad1730bc,75,Ariful Haque,0,54,88,142,0.1,98.47,False
+e72d8f6a,76,Marshall Ayub,0,0,125,125,0.08,98.55,False
+1494a583,77,Dhiman Ghosh,124,1,0,125,0.08,98.63,False
+b743f01b,78,Syed Rasel,76,7,37,120,0.08,98.71,False
+2cccba8f,79,Sanwar Hossain,115,0,0,115,0.08,98.79,False
+8fb49ef8,80,Suhrawadi Shuvo,98,1,15,114,0.08,98.87,False
+cb5100f1,81,Ebadat Hossain,3,0,105,108,0.07,98.94,False
+3f5f39cd,82,Al-Amin Hossain,4,7,90,101,0.07,99.01,False
+d876610c,83,Robiul Islam,0,0,99,99,0.07,99.08,False
+dac6aabc,84,Mahidul Islam Ankon,69,0,29,98,0.07,99.15,False
+5284c884,85,Mahbubul Alam,81,0,3,84,0.06,99.21,False
+1f7adc8a,86,Arafat Sunny,48,34,0,82,0.05,99.26,False
+fdd414ab,87,Al Sahariar,44,0,36,80,0.05,99.31,False
+0480aba6,88,Enamul Haque jnr,8,0,56,64,0.04,99.35,False
+d1ae8f94,89,Dolar Mahmud,61,0,0,61,0.04,99.39,False
+fbc5b9e2,90,Akram Khan,57,0,0,57,0.04,99.43,False
+c285c86e,91,Mohammad Shahid,0,0,57,57,0.04,99.47,False
+5dbdecf1,92,Khaled Ahmed,1,0,55,56,0.04,99.51,False
+f7e9a562,93,Kamrul Islam Rabbi,0,0,51,51,0.03,99.54,False
+817c1746,94,Elias Sunny,2,6,38,46,0.03,99.57,False
+0f348f58,95,Sunzamul Islam,19,0,24,43,0.03,99.6,False
+aa467af0,96,Tanvir Islam,31,12,0,43,0.03,99.63,False
+1bb0993e,97,Abu Jayed,0,2,36,38,0.03,99.66,False
+31803fac,98,Abu Hider,0,37,0,37,0.02,99.68,False
+1ec36a1e,99,Mohammad Sharif,0,0,36,36,0.02,99.7,False
+f8ce577b,100,Aminul Islam,0,35,0,35,0.02,99.72,False
+5318ee68,101,Nahid Rana,12,0,21,33,0.02,99.74,False
+b07c8cdc,102,Amite Hasan,0,0,29,29,0.02,99.76,False
+688b2d58,103,Ehsanul Haque,28,0,0,28,0.02,99.78,False
+da9f58aa,104,Hasan Murad,0,0,27,27,0.02,99.8,False
+89ffd337,105,Faisal Hossain,26,0,0,26,0.02,99.82,False
+5e5eab39,106,Nazmul Hossain,15,3,8,26,0.02,99.84,False
+62a99934,107,Abdul Gaffar Saqlain,0,23,0,23,0.02,99.86,False
+8eb611d0,108,Mosharraf Hossain,22,0,0,22,0.01,99.87,False
+6575e3bc,109,Nazmul Islam,7,8,4,19,0.01,99.88,False
+4a491652,110,Muktar Ali,0,19,0,19,0.01,99.89,False
+77768f72,111,Rakibul Hasan,0,18,0,18,0.01,99.9,False
+4dcd505e,112,Jamaluddin Ahmed,18,0,0,18,0.01,99.91,False
+0443414a,113,Sajedul Islam,0,0,18,18,0.01,99.92,False
+902d916b,114,Jubair Hossain,5,0,13,18,0.01,99.93,False
+d6ac6545,115,Nadif Chowdhury,0,17,0,17,0.01,99.94,False
+a3a078ba,116,Subashis Roy,1,0,14,15,0.01,99.95,False
+dd98b22f,117,Munim Shahriar,0,13,0,13,0.01,99.96,False
+21b97584,118,Mrittunjoy Chowdhury,8,4,0,12,0.01,99.97,False
+2cfa6534,119,Manjural Islam,2,0,6,8,0.01,99.98,False
+79025aaa,120,Hasibul Hossain,7,0,0,7,0.0,99.98,False
+24104e5c,121,Tanbir Hayder,5,0,0,5,0.0,99.98,False
+45d38a84,122,Al Islam,0,4,0,4,0.0,99.98,False
+0e9af639,123,Talha Jubair,4,0,0,4,0.0,99.98,False
+2a731841,124,Tareq Aziz,2,0,0,2,0.0,99.98,False
+075e9f9c,125,Moniruzzaman,1,0,0,1,0.0,99.98,False
+5d02a793,126,Anwar Hossain Monir,0,0,0,0,0.0,99.98,False
+492ff0c2,127,R Mondol,0,0,0,0,0.0,99.98,False
+b4bef2ed,128,Fazle Mahmud,0,0,0,0,0.0,99.98,False
+9fa4ff04,129,Shahriar Hossain,0,0,0,0,0.0,99.98,False
